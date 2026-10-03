@@ -1,7 +1,7 @@
 # ==========================================
 # Script Name: disable_takecontrol.ps1
 # Author: Matthew Bernardin
-# Version: 0.9
+# Version: 04/10/2026
 # ==========================================
 
 #Requires -RunAsAdministrator
