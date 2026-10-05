@@ -11,7 +11,7 @@ $updatedDevices = 0
 $skippedDevices = 0
 
 # Commonly used exclusive-mode properties.
-# Verify their effect on your Windows build.
+# One of these should work but needs testing against individual windows builds
 $propertyNames = @(
     "{b3f8fa53-0004-438e-9003-51a46e139bfc},0"
     "{b3f8fa53-0004-438e-9003-51a46e139bfc},3"
