@@ -104,7 +104,7 @@ try {
         $candidates = @(
             Get-AppxPackage -ErrorAction Stop |
                 Where-Object {
-                    $_.Name -match 'Windows365|WindowsApp|RemoteDesktop'
+                    $_.Name -match 'WindowsApp'
                 }
         )
 
