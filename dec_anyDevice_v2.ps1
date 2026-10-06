@@ -11,7 +11,7 @@ $updatedDevices = 0
 $skippedDevices = 0
 
 # Commonly used exclusive-mode properties.
-# One of these should work but needs testing against individual windows builds
+# One of these could work but needs testing against individual windows builds or as a future update a for loop to iteratively discover every variable
 $propertyNames = @(
     "{b3f8fa53-0004-438e-9003-51a46e139bfc},0"
     "{b3f8fa53-0004-438e-9003-51a46e139bfc},3"
